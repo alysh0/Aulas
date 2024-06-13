@@ -9,3 +9,8 @@
 .direita{
     text-align: right;
 }
+
+.cor-solida{
+    background-color: #e8e1db;
+    color: black;
+}
